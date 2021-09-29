@@ -1,0 +1,4 @@
+name: lambda-janitor
+runtime: nodejs
+description: A lambda to cleanup the AWS Lambda deployment packages
+main: infrastructure
